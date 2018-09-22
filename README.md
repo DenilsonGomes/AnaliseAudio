@@ -10,4 +10,4 @@
 Descrição
 ==========
 
-<p>Esse projeto traz a analise de sianais de audio grave e agudio, suas transformadas de Fourier, Filtros e reprodução dos audios.<p/>
+<p>Esse projeto traz a analise de sinais de audio grave e agudo, suas transformadas de Fourier, Filtros e reprodução dos audios.<p/>
